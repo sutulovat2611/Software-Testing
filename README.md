@@ -7,3 +7,4 @@ The application is purposely buggy and written not following the best coding pra
 The test for __Calendar.py__, which examines it's functional correctness. The CalenderTest.py is to be run using the unittest module. The strategies that were used to select the test cases are explicitly documented in the document named __test-strategy.pdf__, which may be found in the Documents folder.
 
 
+
